@@ -1,0 +1,8 @@
+/* 태블릿 미디어쿼리 */
+@media screen and (max-width:800px) {
+	.left, .snb{display: none;}
+}
+/* 모바일 미디어쿼리 */
+@media screen and (max-width:600px) {
+	.left, .snb{display: none;}
+}
